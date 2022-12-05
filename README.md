@@ -1,1 +1,5 @@
-# Marketing-Plan-Amazon-Prime-Video
+# Marketing Plan Amazon Prime Video
+
+Developing a Marketing Plan for a new business or new product provides an entrepreneur a better understanding of the size and specific segments of a market, as well as an evaluation to determine if the target market will support the business’ growth plans. The Marketing Plan is a critical part of any business plan created, whether to inform the business or to communicate to potential investors the size of the opportunity. 
+This analysis documents an overview of the industry that Amazon will participate in. As we narrow this sector down to the ideal customer based on Amazon’s business strategy, we will define Amazon’s target market. A detailed description and sizing of the target market will help the reader understand the market value Amazon has achieved (the number of potential customers multiplied by the average revenue for your product or service). 
+In defining the target market, we will identify key elements such as geographic location, demographics, buyer characteristics, Amazon’s target market's needs and how these needs are being met currently. If there are any direct competitors, these should be compared to how Amazon deals with these competitors.
